@@ -1,0 +1,3 @@
+I am writing from program into file
+2nd line
+This is appended
